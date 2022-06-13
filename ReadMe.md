@@ -1,1 +1,1 @@
-https://github.com/qualson-study/type-challenges
+https://github.com/type-challenges/type-challenges solutions
